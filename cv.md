@@ -2,7 +2,7 @@
   
 ### Contact Information:
 Email address: satrapeznik@gmail.com  
-LinkedIn: [linkedIn profile](https://www.linkedin.com/in/sergei-trapeznikov-b90606137/)
+LinkedIn: [linkedIn profile link](https://www.linkedin.com/in/sergei-trapeznikov-b90606137/)
 
 ---
 
@@ -43,15 +43,19 @@ static void bubbleSort(int[] array) {
 ---
 
 ### Work experience:  
-2017 - 2019 Test Automation Engineer on Java, EPAM Systems, Belarus
-2019 - 2022 Software Engineer on Java, Workfusion Systems, Belarus
-2022 - present Software Engineer on Java, Godel Technologies, Poland
+ years| position and company|
+:------:|---------------------|
+2017 - 2019: | Test Automation Engineer on Java, EPAM Systems, Belarus  
+2019 - 2022: | Software Engineer on Java, Workfusion Systems, Belarus  
+2022 - present: | Software Engineer on Java, Godel Technologies, Poland
 
 ---
 
 ### Education:
-2016 - 2017: test automation engineer on Java, IT Academy, Minsk
-2004 - 2009: mechanical engineer, Belorussian National Technical University, Belarus  
+ years     | specialty and educational institution|
+:--------:|---------------------|
+2016 - 2017: | test automation engineer on Java, IT Academy, Minsk
+2004 - 2009: | mechanical engineer, Belorussian National Technical University, Belarus  
 
 ---
 
