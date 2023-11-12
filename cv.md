@@ -1,4 +1,6 @@
-## Siarhei Trapeznikau
+# Siarhei Trapeznikau
+
+## Software Developer
   
 ### Contact Information:
 Email address: satrapeznik@gmail.com  
