@@ -33,19 +33,15 @@ function multiply(a, b){
 ---
 
 ### Work experience:  
- years| position and company|
-:------:|---------------------|
-2017 - 2019: | Test Automation Engineer on Java, EPAM Systems, Belarus  
-2019 - 2022: | Software Engineer on Java, Workfusion Systems, Belarus  
-2022 - present: | Software Engineer on Java, Godel Technologies, Poland
+2017 - 2019:  Test Automation Engineer on Java, EPAM Systems, Belarus  
+2019 - 2022:  Software Engineer on Java, Workfusion Systems, Belarus  
+2022 - present:  Software Engineer on Java, Godel Technologies, Poland
 
 ---
 
 ### Education:
- years     | specialty and educational institution|
-:--------:|---------------------|
-2016 - 2017: | test automation engineer on Java, IT Academy, Minsk
-2004 - 2009: | mechanical engineer, Belorussian National Technical University, Belarus  
+2016 - 2017:  Test Automation engineer on Java, IT Academy, Minsk  
+2004 - 2009:  Mechanical Engineer, Belorussian National Technical University, Belarus  
 
 ---
 
