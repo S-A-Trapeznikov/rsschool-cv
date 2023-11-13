@@ -1,1 +1,1 @@
-# rsschool-cv
+https://S-A-Trapeznikov.github.io/rsschool-cv/
